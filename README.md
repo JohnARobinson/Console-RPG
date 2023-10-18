@@ -2,9 +2,13 @@
 C++ Console RPG
 
 Randomly generated dungeon within C++ console
+
 -OOP Item, Monster and container system
+
 -Random generated ASCII rooms
+
 -sample rpg character creator
+
 -RPG stats and example skills
 
 TODO
