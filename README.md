@@ -11,6 +11,7 @@ Randomly generated dungeon within C++ console
 
 -RPG stats and example skills
 
+
 TODO
 -add effects to stats(such as str effecting damage)
 
