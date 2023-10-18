@@ -8,8 +8,8 @@ Randomly generated dungeon within C++ console
 -RPG stats and example skills
 
 TODO
--add effects to stats(such as str effecting damage)
--issues with C++ screen regeneration instead of just newlineing away previous result (possible windows screen buffer/ issues finding answer)
+-add effects to stats(such as str effecting damage)\n
+-issues with C++ screen regeneration instead of just newlineing away previous result (possible windows screen buffer/ issues finding answer)\n
 -add ability to change rooms for regenerating layout and entities
 -add combat mechanics with entities
 -add player movement and player interaction
