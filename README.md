@@ -28,7 +28,7 @@ TODO
 -add player inventory
 
 -complexify room generation
-
+![image](https://github.com/JohnARobinson/Console-RPG/assets/64566444/3844857d-9ed4-49fc-96eb-5018ee3f6fda)
 ![image](https://github.com/JohnARobinson/Console-RPG/assets/64566444/76f199da-dfa5-4093-afaf-5b5023dcb656)
 ![image](https://github.com/JohnARobinson/Console-RPG/assets/64566444/0d5a7bd4-3925-41dd-9a6e-15cf1bc718ab)
 ![image](https://github.com/JohnARobinson/Console-RPG/assets/64566444/eed71134-fa72-4532-ba27-5613629fa7ca)
